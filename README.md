@@ -74,7 +74,7 @@ make
 
 ### CMake Integration
 
-Add GeHTTP to your project using CMake:
+Add GHETTP to your project using CMake:
 
 ```cmake
 # Add GeHTTP as subdirectory
